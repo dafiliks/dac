@@ -12,7 +12,7 @@ Dynamic Array in C
 | `da_cleanup`   | `Da*`               | `void`      | Frees memory of both the argument, and the data of the argument                    |
 
 
-#### Example
+### Example
 ```c
 #include <stdio.h>
 #include "dac.h"
@@ -53,7 +53,7 @@ Output:
 ```
 
 
-Notes:
+### Notes
 - https://en.wikipedia.org/wiki/Dynamic_array
 - https://cplusplus.com/reference/cstdio/printf/ 
 - https://en.cppreference.com/w/c/memory/malloc
